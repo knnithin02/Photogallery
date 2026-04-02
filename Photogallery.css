@@ -5,3 +5,23 @@ h1 {
     font-size: 36px;
     text-align: center;
 }
+.description {
+    color: gray;
+    font-family: "Bree Serif";
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+.button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #f40404;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #45a049; }
